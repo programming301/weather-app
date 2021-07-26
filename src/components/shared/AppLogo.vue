@@ -1,5 +1,5 @@
 <template>
-  <img :class="['logo', size]" alt="App logo" src="../assets/logo.png">
+  <img :class="['logo', size]" alt="App logo" src="../../assets/logo.png">
 </template>
 
 <script lang="ts">

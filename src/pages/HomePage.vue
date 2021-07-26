@@ -7,12 +7,11 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import AppLogo from '@/components/AppLogo.vue';
 import SearchInput from '@/components/SearchInput.vue';
 
 export default defineComponent({
   name: 'HomePage',
-  components: { AppLogo, SearchInput },
+  components: { SearchInput },
 });
 </script>
 
