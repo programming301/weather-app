@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils';
-import AppLogo from '@/components/AppLogo.vue';
+import AppLogo from '@/components/shared/AppLogo.vue';
 import allowedSizes from '@/consts/allowed-sizes.const';
 
 describe('AppLogo.vue', () => {
