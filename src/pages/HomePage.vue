@@ -21,6 +21,6 @@ export default defineComponent({
   flex-direction: column;
   align-items: center;
   row-gap: 100px;
-  padding-top: 10%;
+  padding: 10% 0;
 }
 </style>
